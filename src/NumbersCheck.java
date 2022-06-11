@@ -13,7 +13,7 @@ public class NumbersCheck {
         return num;
     }
 
-     static int proste(int numbersVvod) {
+     static int proste(int numbersVvod) {   // Чи є число простим
          System.out.println();
 
         int proste = numbersVvod;
